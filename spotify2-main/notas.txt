@@ -1,0 +1,17 @@
+el API tiene unas reglas que se llama protocolo HTTP
+
+Cliente consume o llama al API
+Servidor creo genero programo el API
+BD Metodos HTTP: guardar(POST), buscar (GET), Modificar(PUT), Eliminar(DELETE)
+
+
+Las REQUEST crea las peticiones
+para transferir datos se utiliza normalmente un formato comun para transferir informacion que se conoce como json
+
+
+ENDPOINT es un identificador
+
+codigo de respuestas me sirve para identificar donde estan los problemas
+
+datos de control van en el headers 
+datos normales en el body
